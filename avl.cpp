@@ -1,15 +1,4 @@
-//============================================================================
-// Name        : PracticalNo09.cpp
-// Author      : Ayush Bulbule
-// Version     :
-// Title       : AVL Tree
-// Description :Dictionary stores keywords & its meanings. Provide facility fo
-//				Adding new keywords, deleting keywords, updating values of an
-//				Entry. Provide facility to display whole data sorted in ascendin
-//				Aescending order. Also find how many maximum comparisons ma
-//				require for finding any keyword. Use Height balance tree and find th
-//				complexity for finding a keyword.
-//============================================================================
+
 
 #include <iostream>
 using namespace std;
